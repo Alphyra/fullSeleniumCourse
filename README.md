@@ -1,1 +1,1 @@
-# fullSeleniumCourse AB
+# fullSeleniumCourse 1
