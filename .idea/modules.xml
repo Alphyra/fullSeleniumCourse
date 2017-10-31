@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumHW.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumHW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumHW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumHW_main.iml" group="SeleniumHW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumHW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumHW_test.iml" group="SeleniumHW" />
+      <module fileurl="file://$PROJECT_DIR$/fullSeleniumCourse.iml" filepath="$PROJECT_DIR$/fullSeleniumCourse.iml" />
+    </modules>
+  </component>
+</project>
