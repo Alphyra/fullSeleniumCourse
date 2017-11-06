@@ -5,6 +5,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.By;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class lesson2task3 {
     private WebDriver driver;
@@ -12,7 +15,7 @@ public class lesson2task3 {
     @Test
     public void task3() {
         // Initiate driver
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver = new EdgeDriver();
         try {
             //Go to litecart admin page
             driver.get("http://localhost/litecart/admin");
