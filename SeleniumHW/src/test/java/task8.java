@@ -25,7 +25,7 @@ public class task8 {
                 List<WebElement> ducks = boxes.get(i).findElements(By.cssSelector(".image-wrapper"));
                 for (int j=0; j<ducks.size(); j++) {
                     List<WebElement> stickers = ducks.get(j).findElements(By.xpath(".//div[contains(@class,'sticker')]"));
-                    Assert.assertEquals("Wrong stickers number", 1, stickers.size());                    
+                    Assert.assertEquals("Wrong stickers number", 1, stickers.size());
                 }
             }
         } catch (Exception e) {
